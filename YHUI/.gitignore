@@ -33,3 +33,4 @@ proguard/
 
 # Log Files
 *.log
+app/src/main/res/layout/fragment_device_utils.xml
